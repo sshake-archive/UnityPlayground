@@ -6,3 +6,5 @@
 *.csproj
 *.unityproj
 *.sln
+/UnityPlayground/*.pidb
+/UnityPlayground/*.suo
